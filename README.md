@@ -1,5 +1,4 @@
-# Equity Valuation and Strategic Analysis: [Company Name] ([Ticker])
-
+# Equity Valuation and Strategic Analysis
 ## Project Overview
 This repository contains a full-scale fundamental and relative valuation of [Company Name] ([Ticker]), conducted as of July 1, 2024. The objective of this project is to determine the intrinsic value of the firm's equity to provide a data-backed investment recommendation (Buy/Sell/Hold). 
 
@@ -8,7 +7,7 @@ Beyond pure financial modeling, this project integrates broader strategic, macro
 ## Repository Architecture
 * ` excel_model/`: Contains the interconnected Pro-forma and DCF valuation model.
 * ` report/`: Contains the comprehensive Top-Down Analysis and Valuation Report.
-* ` data/`: Raw historical financial data and macroeconomic indicators.
+
 
 ## Methodology & Approach
 
